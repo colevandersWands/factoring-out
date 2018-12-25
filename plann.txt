@@ -1,0 +1,4 @@
+use codewars?
+
+http://wiki.c2.com/?NestedFunctions
+http://wiki.c2.com/?ReadsLikeProse
