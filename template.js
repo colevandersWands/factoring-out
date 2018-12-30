@@ -119,7 +119,7 @@ console.log('--- simplified ---')
   // ...
   
   function simplified(a, b){
-    return a + (b % a);
+    return set_new_a(a, b);
   } 
   run_tests(simplified, test_cases)
 

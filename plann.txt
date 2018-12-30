@@ -2,3 +2,8 @@ use codewars?
 
 http://wiki.c2.com/?NestedFunctions
 http://wiki.c2.com/?ReadsLikeProse
+
+peer exercises 
+  refactor & swap encapsulations
+
+https://medium.com/@ntgard/duplication-first-programming-2cc9fc89cffe
